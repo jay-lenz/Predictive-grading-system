@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta charset>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Predictive Grading System</title>
     <meta name="description" content="">
